@@ -71,4 +71,4 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 ## Tags
 
-`Array` `In-Place` `Single Pointer`
+`Array` `In-Place` `Two Pointer`
