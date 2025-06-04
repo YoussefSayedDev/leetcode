@@ -1,6 +1,6 @@
-# Remove Element
+# Remove Duplicates from Sorted Array
 
-**LeetCode Problem:** [Remove Element](https://leetcode.com/problems/remove-element/)
+**LeetCode Problem:** [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ---
 
